@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alison.jpq@gmail.com
+	name = Alison Paico
